@@ -4,9 +4,9 @@
 A Software Developer who loves developing websites, Back-End and Front-End.
 
 ### ⚡ Tech Stack
-![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=black)
-![Laravel](https://img.shields.io/badge/laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=black)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### 🌐 My Website
-[![Rizorsweb](https://img.shields.io/badge/Rizorsweb-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](https://rizorsweb-vercel.vercel.app/)
+### 🌐 Portfolio
+👉 https://rizorsweb-vercel.vercel.app/
